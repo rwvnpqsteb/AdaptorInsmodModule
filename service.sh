@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/system/bin/sh
 insmod /system/lib/modules/88XXau.ko
 insmod /system/lib/modules/8188eu.ko
 insmod /system/lib/modules/8814au.ko
