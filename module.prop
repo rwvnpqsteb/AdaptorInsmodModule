@@ -1,0 +1,6 @@
+id=load-modules-ko
+name=Adaptor Insmod Module
+version=v1.0
+versionCode=102
+author=@yohmod
+description=load driver Insmod 8188eu.ko 88XXau.ko r8188eu.ko r8723bs.ko 8814au.ko gspca_main.ko r8712u.ko
